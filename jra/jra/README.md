@@ -1,2 +1,0 @@
-# jra
-parcial 2
